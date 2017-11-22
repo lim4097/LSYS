@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    // 커스텀 색상
+    <color name="NiceStyle">#c8dfbc</color>
+
+    // 스위치 색상
+    <color name="SwitchOnGIF">#afde96</color>
+    <color name="SwitchOffGIF">#dddddd</color>
+    <color name="SwitchThumbGIF">#afde96</color>
+
+    //  캔디카메라 B2DFDB
+</resources>

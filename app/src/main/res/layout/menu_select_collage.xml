@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <!-- 필터클릭시 메뉴 slide up -->
+    <RelativeLayout
+        android:id="@+id/id_submenu_collage"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@color/NiceStyle"
+        android:layout_alignParentBottom="true">
+        
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/id_collage_select"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+        </android.support.v7.widget.RecyclerView>
+    </RelativeLayout>
+</RelativeLayout>

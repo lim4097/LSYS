@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\AndroidStudioProjects\LSYS-l\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\LSYS-l\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.1.0_a76d823b36d08f2d5afe6fea0170496e93c92f42.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\AndroidStudioProjects\LSYS-l\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\LSYS-l\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.1.0_eccf0a33dbeba30e9114f1083f951a7e2b7e7096.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\AndroidStudioProjects\LSYS-l\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\LSYS-l\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.1.0_33199e1126f3ff7582d37e16a95b6d22d6df4b3e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\AndroidStudioProjects\LSYS-l\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\LSYS-l\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.1.0_d78809d828dfa24b532425c2720beaa5b1ab4248.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\LSYS-l\app\build\intermediates\pre-dexed\debug\glide-3.7.0_1f3ddf859a86296da03fddcf50d19f29d652df81.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\LSYS-l\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.0_f25d486c6b039feba6449ac28f2eb3d9e1d99bc9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\AndroidStudioProjects\LSYS-l\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\LSYS-l\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.1.0_d12dbdf8c28c874a6e6e9207bc5d7ab0375068ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\AndroidStudioProjects\LSYS-l\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\LSYS-l\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.1.0_8c2d9e38dd1c13cea8e2b68c483076e399faba0e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\AndroidStudioProjects\LSYS-l\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\LSYS-l\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.1.0_e8cc9b141044be6b606822dd438d549853f49449.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\AndroidStudioProjects\LSYS-l\app\build\intermediates\exploded-aar\com.android.support\design\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\LSYS-l\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.1.0_6fec18f01d2c3827f8c4e068f5d6fc9532e13fb3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\AndroidStudioProjects\LSYS-l\app\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\LSYS-l\app\build\intermediates\pre-dexed\debug\com.android.support.constraint-constraint-layout-1.0.2_6e2b9e1989de04dae8598096385d29349b9717cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\AndroidStudioProjects\LSYS-l\app\build\intermediates\exploded-aar\com.android.support\transition\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\LSYS-l\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.1.0_7bb9e9418acaaac8bd3bceb4e8bee43cc357f841.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\AndroidStudioProjects\LSYS-l\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\LSYS-l\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.1.0_a0b48e4086afe8e43786615785cfa446a9d082ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\AndroidStudioProjects\LSYS-l\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\LSYS-l\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.1.0_a286d5a5f09893db62fb4a805b1eebdb0c6b8976.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\AndroidStudioProjects\LSYS-l\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\LSYS-l\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.1.0_6123958d8f19bb6566436d361a8b092c07fcbcfd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\LSYS-l\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_69e89180a4d865ebff11250d4742ea295cbaecc8.jar" />
+    </item>
+
+</items>
